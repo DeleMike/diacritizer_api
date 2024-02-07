@@ -24,6 +24,7 @@ multidict==6.0.5
 multiprocess==0.70.15
 networkx==3.2.1
 numpy==1.26.4
+onnx==1.15.0
 onnxruntime==1.17.0
 optimum==1.16.2
 packaging==23.2
